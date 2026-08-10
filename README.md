@@ -16,4 +16,7 @@ Solutions are automatically organized by problem name and difficulty. Each solut
 - Highly optimized C++ source code.
 - Space and Time complexity notes.
 
+- [![Riya's LeetCode Stats](https://vercel.app)](https://leetcode.com)
+
+
 
